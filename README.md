@@ -6,7 +6,12 @@ Spring MVC app in preparation for a collaborative PWA experiment. Current test a
 
 **Run with:**
 ```sh
+# Gradle installation > 4.0
 gradle clean build bootRun
+
+# Use built-in Gradle:
+gradlew clean build bootRun
+
 # Application now served at http://localhost:8080/
 ```
 

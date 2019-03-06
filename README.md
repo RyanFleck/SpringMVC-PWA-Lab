@@ -16,6 +16,7 @@ gradle clean build bootRun
 1. [Spring MVC Example](https://www.mkyong.com/spring-mvc/gradle-spring-mvc-web-project-example/)
 
 **Contributors:**
+- [Adittya I.](https://github.com/aadit041)
 - [Yashar A.](https://github.com/YasharAhmat)
 - [Terence D.](https://github.com/TerryCruze)
 - [Saimoon A.](https://github.com/sazad32)

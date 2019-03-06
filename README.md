@@ -9,6 +9,7 @@ Current test application makes heavy usage of *autowiring*.
 **Run with:**
 ```
 gradle clean build bootRun
+# Application now served at http://localhost:8080/
 ```
 
 **Resources:**

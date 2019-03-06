@@ -1,4 +1,7 @@
 # SpringMVC-PWA-Lab
+
+[![Build Status](https://travis-ci.com/RyanFleck/SpringMVC-PWA-Lab.svg?branch=master)](https://travis-ci.com/RyanFleck/SpringMVC-PWA-Lab)
+
 Spring MVC app in preparation for a collaborative PWA experiment.
 
 Current test application makes heavy usage of *autowiring*.

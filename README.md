@@ -10,3 +10,4 @@ gradle clean build bootRun
 
 **Resources:**
 1. [Spring MVC w/Gradle from Scratch](https://spring.io/guides/gs/serving-web-content/#scratch)
+1. [Gradle and Travis](https://docs.travis-ci.com/user/languages/java/#projects-using-gradle)

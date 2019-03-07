@@ -19,6 +19,7 @@ gradlew clean build bootRun
 1. [Spring MVC w/Gradle from Scratch](https://spring.io/guides/gs/serving-web-content/#scratch)
 1. [Gradle and Travis](https://docs.travis-ci.com/user/languages/java/#projects-using-gradle)
 1. [Spring MVC Example](https://www.mkyong.com/spring-mvc/gradle-spring-mvc-web-project-example/)
+1. [React & Spring](https://spring.io/guides/tutorials/react-and-spring-data-rest/)
 
 **Contributors:**
 - [Adittya I.](https://github.com/aadit041)

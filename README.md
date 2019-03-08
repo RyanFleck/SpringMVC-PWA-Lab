@@ -21,6 +21,7 @@ gradlew clean build bootRun
 1. [Spring MVC Example](https://www.mkyong.com/spring-mvc/gradle-spring-mvc-web-project-example/)
 1. Front-End: using [React with Spring](https://spring.io/guides/tutorials/react-and-spring-data-rest/)
 1. Synchronized clients using [Java API WebSockets](https://benas.github.io/2016/02/21/using-the-java-api-for-webSocket-to-create-a-chat-server.html) and [STOMP with Spring Controllers](https://spring.io/guides/gs/messaging-stomp-websocket/)
+1. Search for [HTTP KeepAlive](https://lob.com/blog/use-http-keep-alive) solution.
 
 **Contributors:**
 - [Adittya I.](https://github.com/aadit041)

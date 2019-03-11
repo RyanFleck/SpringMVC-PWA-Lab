@@ -15,6 +15,20 @@ gradlew clean build bootRun
 # Application now served at http://localhost:8080/
 ```
 
+**Ideas:**
+1. Collaborative, cell-based jupyter-like markdown editor.
+  - Users can collaborate on the content, styling, and metadata.
+  - Can export to markdown, asciidoc, html, etc.
+1. Dungon Management System.
+  - Text and Audio Chat over WebRTC.
+  - Log of events that can be exported for long-distance games.
+  - Inventory, spell, status management system for players.
+  - Catalogue of items, spells, monsters for reference.
+1. Social Media Network.
+  - Users can login and post things.
+  - Posts appear on a collective timeline.
+  - Users can chat with one another.
+
 **Resources:**
 1. [Spring MVC w/Gradle from Scratch](https://spring.io/guides/gs/serving-web-content/#scratch)
 1. CI with [Gradle and Travis](https://docs.travis-ci.com/user/languages/java/#projects-using-gradle)
